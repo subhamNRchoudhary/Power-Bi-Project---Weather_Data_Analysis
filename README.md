@@ -2,6 +2,12 @@
 
 # Weather Data Analysis (January 1948)
 
+![image](https://github.com/user-attachments/assets/2af3e7d4-200d-43af-bca5-066a7276efa6)
+
+![image](https://github.com/user-attachments/assets/c4246dc1-c56c-45f1-aab2-17152aee9053)
+
+
+
 ## Overview
 
 This Power BI project visualizes and analyzes historical weather data from January 1948 to December 2017. It includes various visualizations to display temperature (TMAX, TMIN), precipitation (PRCP), and rain data over time.
